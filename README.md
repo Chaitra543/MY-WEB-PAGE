@@ -16,7 +16,7 @@ ACS
 
 # LINKS
 
-- [Webpage](https://www.linkedin.com/in/chaitra-vemula-08809412b/"Linked in profile")
+- [Linkedin profile](https://www.linkedin.com/in/chaitra-vemula-08809412b/"Linked in profile")
 
 # image
 
