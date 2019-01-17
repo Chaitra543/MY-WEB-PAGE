@@ -19,7 +19,7 @@ ACS
 
 # image
 
-![Hosted image](image.jpg"flower")
+![Hosted image](https://github.com/Chaitra543/MY-WEB-PAGE/blob/master/panda.jpg "flower")
 
 
  
