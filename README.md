@@ -7,7 +7,7 @@
 1. Webapps
 2. DBMS
 3. NF
-4 .JAVA
+4. JAVA
 
 # PROGRAM
 
