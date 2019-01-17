@@ -5,9 +5,9 @@
 # MY COURSES
 
 1.Webapps
-2.DBMS
-3.NF
-4.JAVA
+1.DBMS
+1.NF
+1.JAVA
 
 # PROGRAM
 
